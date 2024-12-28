@@ -23,7 +23,7 @@
   </a>
   <a href="https://wa.me/+0201098971297" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  
 </div>
 
 ###
